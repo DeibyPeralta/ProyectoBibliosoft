@@ -91,9 +91,9 @@
             this.label5.Font = new System.Drawing.Font("Arial", 18F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(248, 20);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(115, 28);
+            this.label5.Size = new System.Drawing.Size(73, 28);
             this.label5.TabIndex = 71;
-            this.label5.Text = "BiblioSoft";
+            this.label5.Text = "Deiby";
             // 
             // login
             // 
