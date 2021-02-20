@@ -1,0 +1,39 @@
+C:\Users\Acer\Documentos\Visual Studio 2015\Projects\ProyectoBibliosoft\BLL\bin\Debug\BLL.dll
+C:\Users\Acer\Documentos\Visual Studio 2015\Projects\ProyectoBibliosoft\BLL\bin\Debug\BLL.pdb
+C:\Users\Acer\Documentos\Visual Studio 2015\Projects\ProyectoBibliosoft\BLL\bin\Debug\DAL.dll
+C:\Users\Acer\Documentos\Visual Studio 2015\Projects\ProyectoBibliosoft\BLL\bin\Debug\Entity.dll
+C:\Users\Acer\Documentos\Visual Studio 2015\Projects\ProyectoBibliosoft\BLL\bin\Debug\DAL.pdb
+C:\Users\Acer\Documentos\Visual Studio 2015\Projects\ProyectoBibliosoft\BLL\bin\Debug\Entity.pdb
+C:\Users\Acer\Documentos\Visual Studio 2015\Projects\ProyectoBibliosoft\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documentos\Visual Studio 2015\Projects\ProyectoBibliosoft\BLL\obj\Debug\BLL.dll
+C:\Users\Acer\Documentos\Visual Studio 2015\Projects\ProyectoBibliosoft\BLL\obj\Debug\BLL.pdb
+F:\Proyecto\ProyectoBibliosoft\ProyectoBibliosoft\BLL\bin\Debug\BLL.dll
+F:\Proyecto\ProyectoBibliosoft\ProyectoBibliosoft\BLL\bin\Debug\BLL.pdb
+F:\Proyecto\ProyectoBibliosoft\ProyectoBibliosoft\BLL\bin\Debug\DAL.dll
+F:\Proyecto\ProyectoBibliosoft\ProyectoBibliosoft\BLL\bin\Debug\Entity.dll
+F:\Proyecto\ProyectoBibliosoft\ProyectoBibliosoft\BLL\bin\Debug\DAL.pdb
+F:\Proyecto\ProyectoBibliosoft\ProyectoBibliosoft\BLL\bin\Debug\Entity.pdb
+F:\Proyecto\ProyectoBibliosoft\ProyectoBibliosoft\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Proyecto\ProyectoBibliosoft\ProyectoBibliosoft\BLL\obj\Debug\BLL.dll
+F:\Proyecto\ProyectoBibliosoft\ProyectoBibliosoft\BLL\obj\Debug\BLL.pdb
+F:\Proyecto\ProyectoBibliosoft\ProyectoBibliosoft\BLL\bin\Debug\BLL.dll.config
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\BLL\bin\Debug\BLL.dll.config
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\BLL\bin\Debug\BLL.dll
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\BLL\bin\Debug\BLL.pdb
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\BLL\bin\Debug\DAL.dll
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\BLL\bin\Debug\Entity.dll
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\BLL\bin\Debug\DAL.pdb
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\BLL\bin\Debug\Entity.pdb
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\BLL\obj\Debug\BLL.dll
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\BLL\obj\Debug\BLL.pdb
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\ProyectoBibliosoft\BLL\bin\Debug\BLL.dll.config
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\ProyectoBibliosoft\BLL\bin\Debug\BLL.dll
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\ProyectoBibliosoft\BLL\bin\Debug\BLL.pdb
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\ProyectoBibliosoft\BLL\bin\Debug\DAL.dll
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\ProyectoBibliosoft\BLL\bin\Debug\Entity.dll
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\ProyectoBibliosoft\BLL\bin\Debug\DAL.pdb
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\ProyectoBibliosoft\BLL\bin\Debug\Entity.pdb
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\ProyectoBibliosoft\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\ProyectoBibliosoft\BLL\obj\Debug\BLL.dll
+C:\Users\Acer\Escritorio\Proyecto corregido\ProyectoBibliosoft\ProyectoBibliosoft\BLL\obj\Debug\BLL.pdb
